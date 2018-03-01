@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jackielii/simplest-redux-example.git"
+    "url": "git+https://github.com/sunhannie/react-redux-test"
   },
   "keywords": [
     "redux",
@@ -17,9 +17,9 @@
   "author": "Jackie Li",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jackielii/simplest-redux-example/issues"
+    "url": "https://github.com/sunhannie/react-redux-test"
   },
-  "homepage": "https://github.com/jackielii/simplest-redux-example#readme",
+  "homepage": "https://github.com/sunhannie/react-redux-test#readme",
   "dependencies": {
     "react": "^0.14.1",
     "react-dom": "^0.14.7",
